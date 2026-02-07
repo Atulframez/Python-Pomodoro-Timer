@@ -77,3 +77,6 @@ if __name__ == "__main__":
     # The `countdown` function handles the countdown logic for both work and break intervals, while the `handle_pause_stop` function manages user input for pausing or stopping the timer. The `pomodoro_timer` function orchestrates the overall flow of the Pomodoro cycles, and the `get_valid_input` function ensures that user inputs are valid positive integers.
     
     # The program starts by prompting the user for the desired work interval, short break interval, long break interval, and the number of cycles. It then runs the Pomodoro timer based on the provided settings.
+    
+    
+    # To run the program, simply execute the script and follow the prompts to set your desired intervals and cycles. The timer will display the remaining time for each interval and allow you to pause, stop, or repeat the cycles as needed.
