@@ -70,3 +70,10 @@ if __name__ == "__main__":
     cycles = get_valid_input("Enter the number of cycles: ")
 
     pomodoro_timer(work_minutes, short_break_minutes, long_break_minutes, cycles)
+    
+    
+    # This code implements a Pomodoro timer that allows users to set work intervals, short breaks, and long breaks. It also includes functionality to pause, stop, and repeat the cycles. The user is prompted for input to customize the timer settings.
+    
+    # The `countdown` function handles the countdown logic for both work and break intervals, while the `handle_pause_stop` function manages user input for pausing or stopping the timer. The `pomodoro_timer` function orchestrates the overall flow of the Pomodoro cycles, and the `get_valid_input` function ensures that user inputs are valid positive integers.
+    
+    # The program starts by prompting the user for the desired work interval, short break interval, long break interval, and the number of cycles. It then runs the Pomodoro timer based on the provided settings.
