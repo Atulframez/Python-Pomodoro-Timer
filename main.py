@@ -80,3 +80,8 @@ if __name__ == "__main__":
     
     
     # To run the program, simply execute the script and follow the prompts to set your desired intervals and cycles. The timer will display the remaining time for each interval and allow you to pause, stop, or repeat the cycles as needed.
+    
+    
+    # Note: The timer uses a simple console-based interface, and the time is displayed in the format of minutes and seconds. The program will continue to run until all cycles are completed or the user chooses to stop it.
+    
+    # You can customize the timer further by adding features such as notifications, sound alerts, or a graphical user interface if desired.
